@@ -1,4 +1,4 @@
-# GG-Modul-1.1
+# GENERASI GIGIH 3.0 -- MODUL 1.1
 
 The provided code is an HTML code snippet that represents a simple login form with form validation. Let's break down the code and explain its components:
 
